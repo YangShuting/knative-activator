@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:e9b96a4839e9a59389050dca381c52f4d3a84fa4a8683161c29b450277283d66
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:48192304c0d6bbebc04ccf23bc1447f6b2e84a98ec65fcf9f4c862f948653eec
 MAINTAINER maryyang
